@@ -1,5 +1,7 @@
+import Translator from "./components/Translator";
+
 function App() {
-  return <h1>Translator</h1>;
+  return <Translator />;
 }
 
 export default App;
